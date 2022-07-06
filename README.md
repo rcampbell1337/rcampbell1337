@@ -1,6 +1,7 @@
 <img align="left" src="./otherImages/bilborabbins.png" width="400" height="400">
 
-# RAB CAMPBELL, </br> GRADUATE SOFTWARE ENGINEER
+# RAB CAMPBELL 
+### GRADUATE SOFTWARE ENGINEER
 
 I've been a programmer now for coming on 3 years and have finally graduated with a BSc from Bournmeouth University! Just recently landed my first job but still want to keep up the fun programming where i can!
 
