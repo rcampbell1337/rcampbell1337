@@ -18,8 +18,8 @@ I've been a programmer now for coming on 3 years and have finally graduated with
 <div>
 
   <div align="center">
-    <a href="#"><img alt="Robbie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rcampbell1337&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=8A0707&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <a href="#"><img alt="Robbie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampbell1337&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=8A0707&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Robbie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rcampbell1337&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8A0707&icon_color=8A0707" height="200"/></a>
+    <a href="#"><img alt="Robbie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampbell1337&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8A0707&icon_color=8A0707" height="200"/></a>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=rcampbell1337&label=Profile%20views&color=0e75b6&style=flat" alt="rcampbell1337" /> </p>
     <br/>
   </div>
@@ -27,7 +27,7 @@ I've been a programmer now for coming on 3 years and have finally graduated with
   <hr/>
 
   <div>
-    <a href="#"><img alt="Robbie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rcampbell1337&custom_title=Robbie%20Campbell's%20Contribution%20Graph&bg_color=8A0707&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <a href="#"><img alt="Robbie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rcampbell1337&custom_title=Robbie%20Campbell's%20Contribution%20Graph&bg_color=0D1117&color=8A0707&line=FFFFFF&point=8A0707&hide_border=true" /></a>
   <div> 
 </div>
 
