@@ -2,7 +2,7 @@
 
 ## RAB CAMPBELL, GRADUATE SOFTWARE ENGINEER
 
-I've been a programmer now for coming on 3 years and have finally graduated with a BSc from Bournmeouth University! Just recently landed my first job but still want to keep up the fun programming where i can!
+I've been a programmer now for coming on 3 years and have finally graduated with a BSc from Bournmeouth University! Just recently landed my first job but still want to keep up the fun programming where i can! Always up to try out new technologies, projects etc. so if you ever want to work on something cool with me, drop me a message! I might just be down for it!
 
 ## LANGUAGES AND TOOLS
 
