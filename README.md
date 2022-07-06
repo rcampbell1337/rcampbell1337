@@ -1,3 +1,7 @@
+<img src="./otherImages/banner.PNG" width="100%">
+
+</br>
+
 <img align="left" src="./otherImages/bilborabbins.png" width="400" height="400">
 
 ## RAB CAMPBELL, GRADUATE SOFTWARE ENGINEER
