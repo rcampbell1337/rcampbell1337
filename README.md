@@ -1,4 +1,4 @@
-<img align="left" src="./otherImages/bilborabbins.png" width="500" height="500">
+<img align="left" src="./otherImages/bilborabbins.png" width="400" height="400">
 
 # RAB CAMPBELL, </br> GRADUATE SOFTWARE ENGINEER
 
