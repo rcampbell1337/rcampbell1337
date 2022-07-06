@@ -4,23 +4,30 @@
 
 I've been a programmer now for coming on 3 years and have finally graduated with a BSc from Bournmeouth University! Just recently landed my first job but still want to keep up the fun programming where i can!
 
-# LANGUAGES AND TOOLS
+## LANGUAGES AND TOOLS
 
-<img src="./icons/csharp.png" width="40" height="40"><img src="./icons/dotnet.jpg" width="40" height="40"><img src="./icons/java.png" width="40" height="40"><img src="./icons/python.png" width="40" height="40"><img src="./icons/javascript.png" width="40" height="40"><img src="./icons/typescript.png" width="40" height="40"><img src="./icons/react.png" width="40" height="40"><img src="./icons/vue.png" width="40" height="40"><img src="./icons/postgres.png" width="40" height="40"><img src="./icons/azure.png" width="40" height="40"><img src="./icons/devops.png" width="40" height="40"><img src="./icons/html.png" width="40" height="40"><img src="./icons/css.png" width="40" height="40">
+<img src="./icons/csharp.png" width="40" height="40"><img src="./icons/dotnet.jpg" width="40" height="40"><img src="./icons/java.png" width="40" height="40"><img src="./icons/python.png" width="40" height="40"><img src="./icons/javascript.png" width="40" height="40"><img src="./icons/typescript.png" width="40" height="40"><img src="./icons/react.png" width="40" height="40"><img src="./icons/vue.png" width="40" height="40"><img src="./icons/postgres.png" width="40" height="40"><img src="./icons/azure.png" width="40" height="40"><img src="./icons/devops.png" width="40" height="40"><img src="./icons/html.png" width="40" height="40"><img src="./icons/css.png" width="40" height="40"><img src="./icons/node.png" width="40" height="40">
 
-# EXAMPLE PROJECTS...
+</br>
 
-<!--
-**rcampbell1337/rcampbell1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GITHUB STATS 
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+  <div align="center">
+    <a href="#"><img alt="Robbie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rcampbell1337&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Robbie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcampbell1337&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rcampbell1337&label=Profile%20views&color=0e75b6&style=flat" alt="rcampbell1337" /> </p>
+    <br/>
+  </div>
+    </br>
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="Robbie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rcampbell1337&custom_title=Robbie%20Rastogi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+
+
